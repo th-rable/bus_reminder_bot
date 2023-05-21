@@ -1,4 +1,4 @@
-# bus_reminder_bot
+
 
 # 버스 잔여석 변동 알리미   
 With Python, Discord bot   
